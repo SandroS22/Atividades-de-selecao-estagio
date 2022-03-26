@@ -11,5 +11,5 @@ CREATE TABLE Pessoa (
     nome VARCHAR (255)
     idade INT (3)
     celular INT (9)
-    PRIMARY KEY (nome)
+    PRIMARY KEY (nome))
 
